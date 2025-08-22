@@ -17,6 +17,4 @@ A disciplina de **Técnicas de Desenvolvimento de Algoritmos** aborda os princip
 
 ---
 
-### 📁 Estrutura do Repositório
 
-O conteúdo está organizado por tópicos ou unidades, facilitando a navegação e a busca por atividades específicas. Cada pasta contém os arquivos de código-fonte (`.c`, `.cpp`, `.py`, etc.), documentação e relatórios, quando aplicável.
